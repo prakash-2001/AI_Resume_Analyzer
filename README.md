@@ -1,5 +1,7 @@
 # AI Resume Analyzer
 
+🔗 Live Demo: https://ai0-resume-analyzer.streamlit.app/
+
 A Streamlit web app that lets users upload a resume PDF, extracts the resume text, and uses a Hugging Face-hosted LLM to generate resume feedback and improvement suggestions.
 
 ## Features
